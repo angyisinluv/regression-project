@@ -41,7 +41,7 @@ Buyers, sellers and investors need a reliable estimate of what a house is worth.
 - ___ (anything notable in the categorical features, such as the most common building type or zoning class)
 
 ## Visualizations
-![Correlation Heatmap](images/correlation_heatmap.png)
+(https://github.com/angyisinluv/regression-project/blob/main/correlation_heatmap.png?raw=true)
 
 ## Technologies Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
